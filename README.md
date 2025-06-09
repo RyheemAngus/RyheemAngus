@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ryheem, an <a href="www.linkedin.com/in/ryheem-a-5aa67928a">IT Professional</a>☺</h1>
+<h1>Hi, I'm Ryheem, an <a href="www.linkedin.com/in/ryheem-a-5aa67928a">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
