@@ -23,7 +23,7 @@ I created this GitHub profile to showcase my growing skill set and document my l
 
 <h2>📈 About Me</h2>
 
-- 💼 Background in digital marketing, B2B sales, and SaaS
+- 💼 Background in digital marketing and B2B sales
 - 🧠 Currently focused on infrastructure, networks, and cloud (Azure)
 - 🛠️ Learning hands-on through labs and documentation
 - 🌍 Passionate about bridging the gap between people and technology
