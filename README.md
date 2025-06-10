@@ -1,11 +1,11 @@
 <h1>Hi, I'm Ryheem — an <a href="https://www.linkedin.com/in/ryheem-a-5aa67928a">IT Professional</a> with a Strong Foundation in Tech Sales & Digital Marketing</h1>
 
 <p>
-With over 5 years of experience in the technology industry — spanning digital marketing, business development, and tech sales — I’ve had the opportunity to work at the intersection of technical solutions and commercial strategy. I’m now transitioning into a more technical, hands-on role in IT and cloud infrastructure.
+With over 5 years of experience in the technology industry. In the fields of digital marketing, business development, and tech sales; I have had the opportunity to work in multiple industries that require technical solutions. I am now transitioning into a more technical, hands-on role in IT.
 </p>
 
 <p>
-I created this GitHub profile to showcase my growing skill set and document my learning journey. Each project below reflects my commitment to mastering the fundamentals of system administration, cloud computing, and real-world IT workflows.
+I created this GitHub profile to showcase my growing skill set and document my learning journey. Each project below reflects my commitment to mastering the fundamentals of system administration and real-world IT workflows.
 </p>
 
 ---
