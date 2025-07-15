@@ -14,6 +14,7 @@ I created this GitHub profile to showcase my growing skill set and document my l
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - 🛠️ [osTicket: Prerequisites and Installation](https://github.com/ryheemangus/osticket-prereqs)
+  - 🪄 [osTicket: Post-Installation Configuration](https://github.com/ryheemangus/post-install-config)
   - 🔄 [osTicket: Ticket Lifecycle Examples](https://github.com/ryheemangus/ticket-lifecycle)
 
 - <b>Microsoft Azure</b>
