@@ -18,7 +18,7 @@ I created this GitHub profile to showcase my growing skill set and document my l
 
 - <b>Microsoft Azure</b>
   - ☁️ [Configuring On-premises Active Directory within Azure VMs](https://github.com/ryheemangus/configure-ad)
-  - 🛜 [Network Secruity Groups (NSGs) and Inspecting Network Protocols](https://github.com/ryheemangusazure-network-protocols)
+  - 🛜 [Network Secruity Groups (NSGs) and Inspecting Network Protocols](https://github.com/ryheemangus/azure-network-protocols)
 
 ---
 
